@@ -27,13 +27,14 @@
 
 ## Tool :
    
+   
    I have been used `apo` website
    and this is the website link :- 
    
    https://apo.adrian-jagusch.de/#!/Sample%20Net
    
    
-## A video showing the solution :
+## Video showing the solution :
 
    https://user-images.githubusercontent.com/98769195/202439447-9e3edd65-7905-4e87-9fb5-74001ac2f9dc.mov
 
@@ -48,7 +49,7 @@
    
    
    
-   > Trffic lights in lane 5 UNRESOLVED 
+   > Traffic lights in lane 5 UNRESOLVED 
    
  ------
  **Student Name : Bayan Alghasham**
