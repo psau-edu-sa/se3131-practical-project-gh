@@ -35,10 +35,7 @@
    
 ## A video showing the solution :
 
-    
-
-
-https://user-images.githubusercontent.com/98769195/202439447-9e3edd65-7905-4e87-9fb5-74001ac2f9dc.mov
+   https://user-images.githubusercontent.com/98769195/202439447-9e3edd65-7905-4e87-9fb5-74001ac2f9dc.mov
 
 
 
