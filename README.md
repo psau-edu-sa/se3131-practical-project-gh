@@ -39,3 +39,13 @@
     
    https://user-images.githubusercontent.com/98769195/202434146-487896b8-ba2f-4299-99b1-cafc14714f35.mov
 
+
+### Picture showing the solution :
+
+   ![IMG_0640](https://user-images.githubusercontent.com/98769195/202436297-1479faba-5b1e-4f32-b1b0-7e31761dfaf3.jpeg)
+
+   
+   
+> Trffic lights in lane 5 UNRESOLVED 
+   
+   
