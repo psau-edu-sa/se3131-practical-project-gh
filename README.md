@@ -8,7 +8,7 @@
     are red The signs must work in an orderly manner.
    
 
-### Pictogram :
+### Pictogram for the intersection :
    
    ![IMG_0636](https://user-images.githubusercontent.com/98769195/202431264-58d80b4d-5420-4eb8-9849-a5e181cadb82.jpeg)
 
@@ -31,7 +31,7 @@
    
    I have been used `apo` website
    
-   and this it the website link :- https://apo.adrian-jagusch.de/#!/Sample%20Net
+   and this is the website link :- https://apo.adrian-jagusch.de/#!/Sample%20Net
    
    
 ### A video showing the solution :
@@ -46,6 +46,9 @@
 
    
    
+   
+   
 > Trffic lights in lane 5 UNRESOLVED 
    
-   
+ ------
+ **Student Name : Bayan Alghasham**
