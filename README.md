@@ -23,13 +23,14 @@
    
   - The signal in lane 4 can be green and the rest of the signals can be red
 
-   >The signals must work according to the above order
+     - The signals must work according to the above order
 
   - Signals in Lane 5 allow cars to reverse lanes when this does not conflict with another signal
 
 ### Tool :
    
-   I have been used 'apo' website
+   I have been used `apo` website
+   
    and this it the website link :- https://apo.adrian-jagusch.de/#!/Sample%20Net
    
    
