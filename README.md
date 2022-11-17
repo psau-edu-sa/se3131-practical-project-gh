@@ -14,7 +14,6 @@
 
 
 ### Proposed Solution :
-   ![IMG_0636](https://user-images.githubusercontent.com/98769195/202431234-86aaa513-53bc-4e1c-9d00-eb0bf798e426.jpeg)
 
    - The two signals in lanes 1 can be green at the same time and the rest of the signals are red
    
